@@ -3,8 +3,13 @@
 <head>
 
 
-<style>
-
+</head>
+<body>
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            
 	@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
 
 body{
@@ -40,10 +45,11 @@ p {
   from{border-right-color: rgba(0,255,0,.75);}
   to{border-right-color: transparent;}
 }
-	</style>
-</head>
-<body>
+            </style>
 <p>Selamat Datang...</p>
+        </div>
+    </foreignObject>
+</svg>
 
 <img src="https://github-readme-stats.vercel.app/api?username=irunwazed&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=52057b" />
 
